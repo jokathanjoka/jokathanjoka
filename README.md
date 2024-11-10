@@ -1,7 +1,7 @@
 [![JOel Tech](https://readme-typing-svg.demolab.com?font=Anton&size=30&pause=998&color=F51FFF&background=F7F2F20A&vCenter=true&random=false&width=480&lines=Hello+Everyone%F0%9F%91%8B!;My+Name+is+joel+Tech;I+am+a+Self+Learned+Full-Stack+Developer;I+am+from+East+Africa-Tanzania;Nice+to+Meet+You)](https://github.com/joeljamestech)
 
 
-![My card name](https://cardivo.vercel.app/api?name=GIFTED%20TECH%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/joeljamestech.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=joeljamestech &github=joeljamestech &)
+
 </p>
 <p> <b>Connect With me:</b></p>
 <p>
@@ -34,8 +34,7 @@
 
 
 
-- 🔭 I’m currently working on [Gifted Api](https://api.giftedtech.us.kg)
-- 🌱 I’m currently learning [`Python3`](https://www.liaoxuefeng.com/wiki/1016959663602400)
+- 🔭 I’m currently working on joel md
 - 👯 I’m looking to collaborate on Developing Hacking Software Programs
 - 💬 Ask me about Whatsapp Bots or Web Design and Development Issues
 - 📫 How to reach me: [`whatsapp`](wa.me 255714595078)
@@ -45,14 +44,14 @@
 
 <h3>Some of my Projects:</h3>
 
-<a href="https://github.com/mouricedevs/gifted">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=gifted&theme=dark&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/joeljamestech/JOEL-MD">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=joeljamestech &repo=JOEL-MD&theme=dark&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 ### Most are private so only output are soon
 <br>
 
-[![Gifted's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/mouricedevs)
+[![joel's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/joeljamestech)
 <br>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Gifted" />
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="JOEL-MD" />
