@@ -8,7 +8,7 @@
 <a href="https://t.me/rastadeconcave"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://Instagram.com/joeljamestech"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/ngire.joeljamestech"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/giftedmauriceke"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mouricedevs&label=Visitors%20count&color=10d9c3&style=plastic" alt="joel Tech" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=joeljamestech &label=Visitors%20count&color=10d9c3&style=plastic" alt="joel Tech" /> </p>
 </br>
 </details>
 
@@ -18,7 +18,7 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-       <img src="https://github-readme-stats.vercel.app/api?username=mouricedevs&theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
+       <img src="https://github-readme-stats.vercel.app/api?username=joeljamestech &theme=dark&show_icons=true&count_private=true" align="center"> <br> <br>
       <a href="https://github.com/joeljamestech"><img src="https://github-readme-streak-stats.herokuapp.com?user=joeljamestech &theme=merko&border_radius=70&fire=EB5454&stroke=EB5454&border=EB5454" alt="joeljamestech" /></a>
         </td>
     <td width="50%" align="center">
@@ -27,7 +27,7 @@
   </tr>
 </table>
 <div align=center>
-  <a href="https://github.com/joeljamestech" title="Gifted">
+  <a href="https://github.com/joeljamestech" title="JOEL-MD">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=joeljamestech &theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Gifted" />
     </a>
 </div>
